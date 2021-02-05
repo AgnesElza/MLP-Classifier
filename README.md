@@ -1,4 +1,4 @@
-# Wine-dataset-classification-
+# Wine-dataset-classification
 Multi Layer Perceptron Classifier for wine dataset
 # How to setup
 sudo apt install python3-pip
